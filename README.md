@@ -14,24 +14,20 @@ git clone https://github.com/jek1705/Disaster_Response_Pipeline.git
 This project is a part of my Udacity Data Science Nanodegree program, where we aim to provide help during disaster to select only the most relevant messages among the too many received at a time where it capacity to answer is the most limited.
 
 ## File Descriptions
-
-•	app	
-o	templates
-	go.html  # classification result page of web app
-	master.html  # main page of web app
-o	run.py  # Flask file that runs app
-•	data
-o	disaster_categories.csv # data to process
-o	disaster_messages.csv # data to process
-o	process_data.py  # program to clean data and load into database
-o	DisasterResponse.db  # database to save clean data to
-•	models
-o	train_classifier.py  # program to build and train machine learning
-o	classifier.pkl  # pickle file with the model trained to forecast
-•	README.md
-
-![treefiles](treefiles.jpg)
-
+- app	
+  - templates
+    - go.html  # classification result page of web app
+    - master.html  # main page of web app
+  - run.py  # Flask file that runs app
+- data
+  - disaster_categories.csv # data to process
+  - disaster_messages.csv # data to process
+  - process_data.py  # program to clean data and load into database
+  - DisasterResponse.db  # database to save clean data to
+- models
+  - train_classifier.py  # program to build and train machine learning
+  - classifier.pkl  # pickle file with the model trained to forecast
+- README.md
 
 ## How to Interact with the Project
 
