@@ -15,12 +15,12 @@ This project is a part of my Udacity Data Science Nanodegree program, where we a
 
 ## File Descriptions
 
-The database with disaster_messages.csv and disaster_categories.csv is included in the GitHub repository, along with the main Python files (process_data.py and train_classifier.py) to run the model and the web app.
+The database with disaster_messages.csv and disaster_categories.csv is included in the GitHub repository, along with the main Python files (process_data.py, train_classifier.py and run.py) and HTML files (go.html and master.html) to run the model and the web app.
 
 ## How to Interact with the Project
 
 This project is for educational purposes only and no contributions are expected. However, feel free to explore the data and insights provided.
-To run, from command python run.py then go to http://127.0.0.1:3000
+To run the APP, from command python run.py then go to http://127.0.0.1:3000/
 
 ## Licensing, Authors, Acknowledgements, etc.
 
