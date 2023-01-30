@@ -30,8 +30,7 @@ o	train_classifier.py  # program to build and train machine learning
 o	classifier.pkl  # pickle file with the model trained to forecast
 •	README.md
 
-![TREE FILE](https://github.com/jek1705/Disaster_Response_Pipeline/images/tree files.jpg?raw=true)
-
+![treefiles](treefiles.jpg)
 
 
 ## How to Interact with the Project
