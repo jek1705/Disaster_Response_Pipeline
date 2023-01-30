@@ -31,8 +31,13 @@ This project is a part of my Udacity Data Science Nanodegree program, where we a
 
 ## How to Interact with the Project
 
-This project is for educational purposes only and no contributions are expected. However, feel free to explore the data and insights provided.
-To run the APP, from command python run.py then go to http://127.0.0.1:3000/
+- This project is for educational purposes only and no contributions are expected. However, feel free to explore the data and insights provided.
+1. To create a processed sqlite db:  
+python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
+2. To train and save a pkl model:  
+python train_classifier.py ../data/DisasterResponse.db classifier.pkl  
+3. To deploy the application locally:
+python run.py  
 
 ## Licensing, Authors, Acknowledgements, etc.
 
