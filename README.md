@@ -15,7 +15,23 @@ This project is a part of my Udacity Data Science Nanodegree program, where we a
 
 ## File Descriptions
 
-The database with disaster_messages.csv and disaster_categories.csv is included in the GitHub repository, along with the main Python files (process_data.py, train_classifier.py and run.py) and HTML files (go.html and master.html) to run the model and the web app.
+•	app	
+o	templates
+	go.html  # classification result page of web app
+	master.html  # main page of web app
+o	run.py  # Flask file that runs app
+•	data
+o	disaster_categories.csv # data to process
+o	disaster_messages.csv # data to process
+o	process_data.py  # program to clean data and load into database
+o	DisasterResponse.db  # database to save clean data to
+•	models
+o	train_classifier.py  # program to build and train machine learning
+o	classifier.pkl  # pickle file with the model trained to forecast
+•	README.md
+
+
+
 
 ## How to Interact with the Project
 
