@@ -20,6 +20,7 @@ The database with disaster_messages.csv and disaster_categories.csv is included 
 ## How to Interact with the Project
 
 This project is for educational purposes only and no contributions are expected. However, feel free to explore the data and insights provided.
+Go to http://127.0.0.1:3000
 
 ## Licensing, Authors, Acknowledgements, etc.
 
